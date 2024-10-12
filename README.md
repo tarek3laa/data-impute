@@ -89,7 +89,7 @@ You can use the following command to run the experiment, replacing the arguments
 python impute_firstexp.py \
     --missing <missing_count> \
     --type <data_generation_type> \
-    --path <skill_path> \
+    --path <skill_name> \
     --impute_type <imputation_method> \
     --n_players <number_of_players> \
     --n_angles <number_of_angles> \
