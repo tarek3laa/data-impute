@@ -102,7 +102,7 @@ python impute_firstexp.py \
   + 1: Randomly generate missing data.
   + 2: Generate missing data based on transition points.
   + List: A list format to specify [total_ratio, number_of_intervals] for generating missing data over intervals.
-* --path: Path to the data file or directory.
+* --path: skill directory name.
 * --impute_type: The imputation method to use, based on the following options:
   + 1: Single variable imputer.
   + 2: Multivariable imputer across all players.
